@@ -48,7 +48,7 @@ Of course, if you think this feature can be useful to other people, feel free to
 ## Basic Usage
 
 ```dart
-import 'package:dash_chat_2/dash_chat_2.dart';
+import 'package:dash_chat_2/dash_chat_3.dart';
 import 'package:flutter/material.dart';
 
 class Basic extends StatefulWidget {

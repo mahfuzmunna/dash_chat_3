@@ -1,4 +1,4 @@
-import 'package:dash_chat_2/dash_chat_2.dart';
+import 'package:dash_chat_3/dash_chat_3.dart';
 import 'package:examples/data.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +16,7 @@ class AvatarSampleState extends State<AvatarSample> {
       appBar: AppBar(
         title: const Text('Users example'),
       ),
-      body: DashChat(
+      body: DashChat3(
         currentUser: user,
         onSend: (ChatMessage m) {
           setState(() {

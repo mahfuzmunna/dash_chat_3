@@ -1,4 +1,4 @@
-part of '../../../dash_chat_2.dart';
+part of '../../../dash_chat_3.dart';
 
 @Deprecated('Use defaultParsePatterns instead')
 List<MatchText> defaultPersePatterns = defaultParsePatterns;

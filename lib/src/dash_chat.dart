@@ -1,8 +1,8 @@
-part of '../dash_chat_2.dart';
+part of '../dash_chat_3.dart';
 
 /// {@category Entry point}
-class DashChat extends StatelessWidget {
-  const DashChat({
+class DashChat3 extends StatelessWidget {
+  const DashChat3({
     required this.currentUser,
     required this.onSend,
     required this.messages,
