@@ -22,7 +22,6 @@ environment:
 
 dependencies:
   dash_chat_3: ^1.0.0
-    path: ../
   flutter:
     sdk: flutter
 

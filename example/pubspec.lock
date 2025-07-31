@@ -89,12 +89,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0"
-  dash_chat_2:
+  dash_chat_3:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: dash_chat_3
+      sha256: "2d23ffe39bcc8d7e6761820c062a8101e197d9a4556b29e48dc93e7491eaca4d"
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   fake_async:
     dependency: transitive

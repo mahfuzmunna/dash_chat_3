@@ -1,4 +1,4 @@
-import 'package:dash_chat_2/dash_chat_3.dart';
+import 'package:dash_chat_3/dash_chat_3.dart';
 import 'package:examples/data.dart';
 import 'package:flutter/material.dart';
 
@@ -17,7 +17,7 @@ class MentionSampleState extends State<MentionSample> {
       appBar: AppBar(
         title: const Text('Mention example'),
       ),
-      body: DashChat(
+      body: DashChat3(
         currentUser: user,
         onSend: (ChatMessage m) {
           m.mentions = mentions;

@@ -68,7 +68,7 @@ class DefaultAvatar extends StatelessWidget {
                           image: fallbackImage ??
                               const AssetImage(
                                 'assets/profile_placeholder.png',
-                                package: 'dash_chat_2',
+                                package: 'dash_chat_3',
                               ),
                         ),
                 ),
@@ -84,7 +84,7 @@ class DefaultAvatar extends StatelessWidget {
                       placeholder: fallbackImage ??
                           const AssetImage(
                             'assets/profile_placeholder.png',
-                            package: 'dash_chat_2',
+                            package: 'dash_chat_3',
                           ),
                     ),
                   ),

@@ -1,4 +1,4 @@
-import 'package:dash_chat_2/dash_chat_3.dart';
+import 'package:dash_chat_3/dash_chat_3.dart';
 import 'package:examples/data.dart';
 import 'package:flutter/material.dart';
 
@@ -32,7 +32,7 @@ class ThemeSampleState extends State<ThemeSample> {
         ),
         body: Container(
           color: const Color(0xff001eff),
-          child: DashChat(
+          child: DashChat3(
             currentUser: user,
             onSend: (ChatMessage m) {
               setState(() {
